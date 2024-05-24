@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mainhathoangy2001" alt="mainhathoangy2001" /></a> </p>
 
-- 🔭 I’m currently working on [mchat](https://github.com/MaiNhatHoangY2001/mchat)
+- 🔭 I’m currently working on [gemini-app](https://github.com/MaiNhatHoangY2001/gemini-app)
 
-- 🌱 I’m currently learning **nextjs, vuejs**
+- 🌱 I’m currently learning **angular, java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaiNhatHoangY2001?tab=repositories](https://github.com/MaiNhatHoangY2001?tab=repositories)
 
-- 💬 Ask me about **reactjs, react-native, nodejs, js, ts**
+- 💬 Ask me about **reactjs, angular, nodejs, java, ts**
 
 - 📫 How to reach me **mainhathoangy2001@gmail.com**
 
